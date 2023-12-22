@@ -1,2 +1,2 @@
-# REV_Elevator_V2 - this vers. add single auto Cmd to position, ensure isFin()
- for cmd, user can cmd to position in teleOp from SmtDash.
+# REV_Elevator_V2
+v.2 adds single auto Cmd to position, ensure isFinished() works to end Cmd
